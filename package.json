@@ -2,6 +2,9 @@
   "name": "ionic-native-jpush",
   "version": "1.0.0",
   "description": "ionic3极光插件",
+  "keywords": [
+    "ionic3", "jpush", "push"
+  ],
   "module": "index.js",
   "typings": "index.d.ts",
   "author": "pillar<pillarhou@yeah.net>",
@@ -13,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DarrenHou1993/ionic3-jpush.git"
+    "url": "https://github.com/DarrenHou1993/ionic-native-jpush.git"
   }
 }
