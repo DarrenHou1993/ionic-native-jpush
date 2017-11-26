@@ -1,6 +1,6 @@
 ## ionic-native-jpush
 
-###使用提醒
+### 使用提醒
 * 安装 npm i ionic-native-jpush -S
 * [这里有简单的例子](https://github.com/DarrenHou1993/ionic3-jpush-demo.git)
 * 未封装以下api
